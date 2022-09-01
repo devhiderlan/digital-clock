@@ -37,7 +37,6 @@ h2 {
   width: 120px;
   height: 100px;
   background-color: slateblue;
-  /* opacity: .9; */
   color: #fff;
   display: flex;
   justify-content: center;
@@ -62,7 +61,6 @@ h2 {
   height: 35px;
   font-size: 20px;
   background: #77008e;
-  /* margin-left: 8px; */
 }
 
 @media screen and (max-width: 376px) {
